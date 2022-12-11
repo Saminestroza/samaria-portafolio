@@ -116,6 +116,7 @@ body{
     border: medium solid;
 	border-radius: 15px;
 	margin-bottom: 10px;
+	margin-right: 2%;
 	
 }
 
@@ -361,6 +362,10 @@ h4{
 	
 }
 
+#hero-contacto h3{
+	font-size: 4vw;
+}
+
 #hero-contacto input,
 #hero-contacto textarea{
 	padding: 10px;
@@ -371,10 +376,71 @@ h4{
 }
 
 #hero-contacto .info-form{
-	margin-top: 50%;
-	margin-left: %;
-	padding: 25px 30px 50px;
+
+	padding: 20px;
 	text-align: center;
 
+	
+}
+
+.link-negro{
+	background-color: #000000;
+	color: #fff;
+	padding: 10px 138px;
+	border: none;
+}
+
+#hero-contacto button:hover{
+	background-color: #FFC900;
+	color: #000000;
+	border: thin solid;
+}
+
+#hero-contacto img{
+	border-top: medium solid;
+	border-bottom: medium solid;
+	border-left: medium solid;
+	border-right: medium solid;
+}
+
+#hero-samaria{
+	border-top: medium solid;
+	border-bottom: medium solid;
+	margin-bottom: 2%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: #F2F2F2;
+}
+
+#hero-samaria img{
+	border: medium solid;
+}
+
+#hero-samaria h1{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 50px;
+}
+
+#hero-samaria p{
+	padding-top: 5%;
+	font-size: 1.3vw;
+	margin-bottom: 10%;
+}
+
+#hero-samaria a:hover{
+	background-color: #FF90E8;
+	color: #000000;
+}
+
+.link-contacto{
+	font-family: Poppins;
+	background-color: #fff;
+	color: #000000;
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 30px;
+	font-size: 15px;
+	border: medium solid;
 	
 }
