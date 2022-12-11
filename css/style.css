@@ -417,15 +417,16 @@ h4{
 }
 
 #hero-samaria h1{
+	padding-top: 1%;
 	font-family: Poppins;
 	font-weight: 500;
-	font-size: 50px;
+	font-size: 5vw;
 }
 
 #hero-samaria p{
-	padding-top: 5%;
-	font-size: 1.3vw;
-	margin-bottom: 10%;
+	padding-top: 2%;
+	font-size: 1.6vw;
+	margin-bottom: 2%%;
 }
 
 #hero-samaria a:hover{
@@ -438,9 +439,9 @@ h4{
 	background-color: #fff;
 	color: #000000;
 	text-decoration: none;
-	padding: 10px 20px;
+	padding: 1vw 2vw;
 	border-radius: 30px;
-	font-size: 15px;
-	border: medium solid;
+	font-size: 1.5vw;
+	border: thin solid;
 	
 }
